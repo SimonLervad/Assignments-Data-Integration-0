@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<author>
+	<name>
+		<firstname>Simon</firstname>
+		<lastname>Lervad</lastname>
+	</name>
+	<gender>Male</gender>
+	<email>Lervad1996@gmail.com</email>
+</author>	
+<notes>
+	<note>
+		<date>Monday 23th of March</date>
+		<lecturer>NML</lecturer>
+		<headline>Data Integration 0</headline>
+		<context>
+			<subtitle>XML</subtitle>
+			<nfo>
+				XML is a markup language, its very similar to HTML. Only i HTML u have pre defined tags, in XML we create our own tags and store data in them. 
+				XML stands for Extensible Markup Language and is a text-based markup language derived from Standard Generalized Markup Language (SGML).
+			</nfo>
+			<references>
+				<link>https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction</link>
+				<link>https://www.tutorialspoint.com/xml/xml_editors.htm</link>
+				<link>https://www.javatpoint.com/xml-tutorial</link>
+			</references>
+		</context>
+	</note>
+	<note>
+		<date>Monday 24th of March</date>
+		<lecturer>NML</lecturer>
+		<headline>Security 0</headline>
+		<context>
+			<subtitle>OWASP</subtitle>
+			<nfo>
+				Information is yet to come
+			</nfo>
+			<references>
+				<link>https://www.owasp.org/index.php/Main_Page</link>
+				<link>https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf</link>
+				<link>https://almanac.httparchive.org/en/2019/security</link>
+			</references>
+		</context>
+	</note>
+</notes>
