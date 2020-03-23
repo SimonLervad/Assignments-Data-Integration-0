@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<world>
+	<governmentforms>
+		<governmentform>
+			<name>Nonmetropolitan Territory of The Netherlands</name>
+		</governmentform>
+		<governmentform>
+			<name>Dependent Territory of the UK</name>
+		</governmentform>
+		<governmentform>
+			<name>Parliamentary Coprincipality</name>
+		</governmentform>
+		<governmentform>
+			<name>Emirate Federation</name>
+		</governmentform>
+		<governmentform>
+			<name>US Territory</name>
+		</governmentform>
+		<governmentform>
+			<name>Co-administrated</name>
+		</governmentform>
+		<governmentform>
+			<name>Constitutional Monarchy, Federation</name>
+		</governmentform>
+	</governmentforms>
+</world>
